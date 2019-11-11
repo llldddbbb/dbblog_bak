@@ -1,6 +1,6 @@
 ## 简介
 这是dbblog的数据库自动备份仓库，每隔3天自动将数据库脚本提交到该仓库。下面是教程：
-
+## 教程
 1. 在github上创建仓库 dbblog_bak
 
 2. 配置ssh：在服务器执行ssh-keygen，将生成好的ssh密文配置到github
